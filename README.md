@@ -44,7 +44,6 @@ The app uses the following APIs to fetch data:
 
 ## Contact Page :-
 
-![Contact_Page](https://github.com/NANDASHALVA/contact_management_app/assets/136693664/af7b3eaf-c88b-4bcc-8fa5-bd120caf5d8c)
 
 
 </br>
