@@ -44,7 +44,7 @@ The app uses the following APIs to fetch data:
 
 ## Contact Page :-
 
-<img src="./contact_management_app/ScreenShots/Contact_Page.PNG"/>
+<img src="./Nanda/contact_management_app/ScreenShots/Contact_Page.PNG"/>
 
 </br>
 <img src="./contact_management_app/ScreenShots/Contact_Page_2.PNG"/>
